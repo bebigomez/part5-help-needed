@@ -1,0 +1,10 @@
+post http://localhost:3003/api/blogs
+Content-Type: application/json 
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImJlYmlnb21leiIsImlkIjoiNjVhOTMzNmQ4YWY2ZWUyMDY3NjE2ODY0IiwiaWF0IjoxNzA1NjA1MjE4fQ.7V8Hzzg_nC2S0m0CY7ylEfDUZLm6FVoGhehCFFFmRVM
+
+{
+  "title": "Tercer blog Bebi con Token",
+  "author": "bebi",
+  "url": "newblog.com",
+  "likes": 1234
+}
