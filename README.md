@@ -32,6 +32,6 @@ I managed to get the app to achieve the desired behavior by modifying the valida
 
 But I have a feeling that this may not be the right way to go.
 
-I created this temporary repo containing both the frontend and backend so that you can see the rest of the code I currently have:
+I created this temporary repo containing both the frontend and backend so that you can see the rest of the code I currently have.
 
 Thank you so much for taking the time to help me, I really appreciate it.
