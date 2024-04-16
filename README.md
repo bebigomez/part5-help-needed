@@ -1,22 +1,25 @@
-# modio Clothing Store
+# ABA Blog Application
 
-![modio Clothing Store](https://i.imgur.com/sdLqd5d.png)
+![Blog Application](https://i.imgur.com/OB5GuCH.png)
 
-modio Clothing Store is an ecommerce platform for a fictional clothing store called modio. Users can browse through a limited selection of clothing items, add them to their cart, and proceed to checkout. This application has been built with a focus on user experience and smooth navigation.
+ABA (Another Blog Application) is a feature-rich application with user management capabilities, extendend from the exercises developed in the Full Stack Open course offered by the University of Helsinki. Users can sign up, create, like, and comment on different posts. **You can log in with the username 'guestUser' and password 'SuperSecretPass'**.
 
 ## Demo
 
-You can view a live demo of modio Clothing Store [here](https://modio-clothing-store.onrender.com/).
+You can view a live demo of the Blog Application [here](https://url_of_the_demo).
 
 ## Key Features
 
-- Responsive Desing.
-- Intuitive and easy-to-use navigation.
-- Integrated shopping cart functionality.
+- User authentication and management.
+- Creation and publishing of blog posts.
+- Like and comment functionality on posts.
 
 ## Technologies Used
 
-- **React** for building user interfaces.
-- **Axios** for making API requests.
-- **Tailwind CSS** for styling.
-- **Redux** for managing application state.
+- React.js for building the frontend user interface.
+- Styled Components for styling React components.
+- React Redux for state management.
+- React Router DOM for client-side routing.
+- Axios for making HTTP requests.
+- Node.js and Express.js for building the backend server.
+- MongoDB for storing blog posts and user information.
