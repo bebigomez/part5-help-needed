@@ -2,11 +2,11 @@
 
 ![Blog Application](https://i.imgur.com/OB5GuCH.png)
 
-ABA (Another Blog Application) is a feature-rich application with user management capabilities, extendend from the exercises developed in the Full Stack Open course offered by the University of Helsinki. Users can sign up, create, like, and comment on different posts. **You can log in with the username 'guestUser' and password 'SuperSecretPass'**.
+ABA (Another Blog Application) is a feature-rich application with user management capabilities, extendend from the exercises developed in the Full Stack Open course offered by the University of Helsinki. Users can sign up, create, like, and comment on different posts. 
 
 ## Demo
 
-You can view a live demo of the Blog Application [here](https://url_of_the_demo).
+You can view a live demo login in with the username 'guestUser' and password 'SuperSecretPass' [here](https://url_of_the_demo).
 
 ## Key Features
 
