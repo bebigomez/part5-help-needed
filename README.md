@@ -1,12 +1,12 @@
 # modio Clothing Store
 
-![modio Clothing Store](https://i.imgur.com/YFb4Zey.png)
+![modio Clothing Store](https://i.imgur.com/sdLqd5d.png)
 
 modio Clothing Store is an ecommerce platform for a fictional clothing store called modio. Users can browse through a limited selection of clothing items, add them to their cart, and proceed to checkout. This application has been built with a focus on user experience and smooth navigation.
 
 ## Demo
 
-You can view a live demo of modio Clothing Store [here](https://thoughts-p437.onrender.com/).
+You can view a live demo of modio Clothing Store [here](https://modio-clothing-store.onrender.com/).
 
 ## Key Features
 
