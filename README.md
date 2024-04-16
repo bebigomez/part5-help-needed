@@ -1,13 +1,12 @@
 # modio Clothing Store
 
-![modio Clothing Store](https://i.imgur.com/INrrWmC.png)
+![modio Clothing Store](https://i.imgur.com/YFb4Zey.png)
 
 modio Clothing Store is an ecommerce platform for a fictional clothing store called modio. Users can browse through a wide range of clothing items, add them to their cart, and proceed to checkout. This application has been built with a focus on user experience and smooth navigation.
 
-## Screenshots
+## Demo
 
-![Screenshot 1](https://i.imgur.com/INrrWmC.png)
-![Screenshot 2](https://i.imgur.com/INrrWmC.png)
+You can view a live demo of modio Clothing Store [here](https://thoughts-p437.onrender.com/).
 
 ## Key Features
 
@@ -22,10 +21,6 @@ modio Clothing Store is an ecommerce platform for a fictional clothing store cal
 - [JavaScript Framework] for building interactive and dynamic user interfaces.
 - [State Management Library] for efficiently managing the application state.
 - [Development Server] for the development and testing environment of the project.
-
-## Demo
-
-You can view a live demo of modio Clothing Store [here](https://thoughts-p437.onrender.com/).
 
 ## Installation
 
